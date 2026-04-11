@@ -10,6 +10,14 @@ This project analyzes a real investment portfolio using Python to evaluate strat
 - Speculative ("TikTok") trades significantly underperformed
 - One position (GM) represented **~46%** of the portfolio
 - Applying downside risk controls would have improved returns
+## 📈 Key Results
+
+- Total Portfolio Value: $3,137
+- Total Profit: $146
+- Overall Return: ~4.9%
+- Long Strategy Return: ~28.9%
+- Speculative trades significantly underperformed
+- Portfolio heavily concentrated in GM (~46%)
 
 ## ⚙️ Features
 
