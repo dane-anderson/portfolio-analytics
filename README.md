@@ -1,0 +1,46 @@
+# 📊 Portfolio Analytics & Strategy Evaluation
+
+## Overview
+This project analyzes a real investment portfolio using Python to evaluate strategy performance, allocation decisions, and risk management.
+
+## 🔍 Key Insights
+
+- Long-term strategy returned **~28.9%**
+- Total portfolio returned **~4.9%**
+- Speculative ("TikTok") trades significantly underperformed
+- One position (GM) represented **~46%** of the portfolio
+- Applying downside risk controls would have improved returns
+
+## ⚙️ Features
+
+- Real-time stock pricing using `yfinance`
+- Portfolio return calculations (weighted and average)
+- Strategy-based performance analysis
+- Trade categorization (long vs speculative)
+- Risk simulations:
+  - Removing speculative trades
+  - Capping downside losses
+- Data visualization with matplotlib
+
+## 🛠️ Tech Stack
+
+- Python
+- pandas
+- yfinance
+- matplotlib
+
+## 📈 Example Analysis
+
+- Strategy comparison (long vs speculative)
+- Portfolio concentration breakdown
+- Risk-adjusted performance scenarios
+
+## 🧠 Key Takeaway
+
+A strong strategy alone is not enough. Portfolio performance depends heavily on allocation decisions and risk management. Data-driven analysis reveals where performance is gained — and where it is lost.
+
+## 🚀 Future Improvements
+
+- Portfolio optimization models
+- Machine learning for return prediction
+- Interactive dashboard
