@@ -170,3 +170,43 @@ Data-driven analysis revealed that portfolio performance was driven by a strong 
 - Introduce portfolio optimization
 - Apply machine learning for return prediction
 - Build dashboard visualization
+# 📊 Portfolio Analytics & Strategy Evaluation
+
+## Overview
+This project analyzes a real investment portfolio using Python to evaluate strategy performance, allocation decisions, and risk management.
+
+## 🔍 Key Insights
+
+- Long-term strategy returned **~28.9%**
+- Overall portfolio returned **~4.9%**
+- Speculative ("TikTok") trades significantly underperformed
+- One position (GM) made up **~46%** of the portfolio
+- Risk controls would have improved returns
+
+## ⚙️ Features
+
+- Real-time stock pricing using `yfinance`
+- Portfolio return calculations (weighted + average)
+- Strategy-based performance breakdown
+- Trade categorization (long vs speculative)
+- Risk simulations:
+  - Removing speculative trades
+  - Capping downside losses
+- Data visualization (matplotlib)
+
+## 🛠️ Tech Stack
+
+- Python
+- pandas
+- yfinance
+- matplotlib
+
+## 📈 Key Takeaway
+
+Strong investment strategies can be undermined by poor allocation and lack of risk management. Data-driven analysis helps identify and correct these inefficiencies.
+
+## 🚀 Future Improvements
+
+- Portfolio optimization models
+- Machine learning predictions
+- Interactive dashboard
