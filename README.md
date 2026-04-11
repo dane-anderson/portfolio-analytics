@@ -44,3 +44,6 @@ A strong strategy alone is not enough. Portfolio performance depends heavily on 
 - Portfolio optimization models
 - Machine learning for return prediction
 - Interactive dashboard
+## 📊 Portfolio Allocation
+
+![Portfolio Allocation](allocation_chart.png)
