@@ -23,6 +23,12 @@ Key areas explored include:
 
 This project demonstrates how data analysis can uncover hidden performance drivers and improve decision-making.
 
+
+## 📊 Key Visualization
+
+![Portfolio Allocation](allocation_chart.png)
+
+*Portfolio allocation by position size, highlighting concentration risk and capital distribution across holdings.*
 ---
 
 ## ✨ Features
