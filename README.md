@@ -4,13 +4,13 @@ Data-driven analysis of an investment portfolio to evaluate performance, strateg
 
 ---
 
-##  What It Does
+## What It Does
 
 This project analyzes a real investment portfolio using Python to assess returns, identify weaknesses, and evaluate the impact of strategy and allocation decisions.
 
 ---
 
-##  Overview
+## Overview
 
 The analysis focuses on understanding how different investment strategies contribute to overall portfolio performance.
 
