@@ -4,13 +4,13 @@ Data-driven analysis of an investment portfolio to evaluate performance, strateg
 
 ---
 
-## 🧠 What It Does
+##  What It Does
 
 This project analyzes a real investment portfolio using Python to assess returns, identify weaknesses, and evaluate the impact of strategy and allocation decisions.
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 The analysis focuses on understanding how different investment strategies contribute to overall portfolio performance.
 
@@ -33,13 +33,13 @@ This project demonstrates how data analysis can uncover hidden performance drive
 
 ## ✨ Features
 
-- 📊 Portfolio return calculations (total, weighted, and strategy-based)  
-- 🧠 Strategy comparison (long-term vs speculative trades)  
-- ⚖️ Portfolio concentration analysis  
-- ⚠️ Risk simulations:
+-  Portfolio return calculations (total, weighted, and strategy-based)  
+-  Strategy comparison (long-term vs speculative trades)  
+-  Portfolio concentration analysis  
+-  Risk simulations:
   - Removing speculative trades  
   - Capping downside losses  
-- 📈 Data visualization of performance and allocation  
+-  Data visualization of performance and allocation  
 
 ---
 
